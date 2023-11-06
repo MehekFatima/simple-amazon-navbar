@@ -1,0 +1,21 @@
+*{
+    
+    padding: 0px;
+    margin: 0px;
+}
+#amazon{
+    height: 60px;
+    background-color: #000000;
+   
+}
+#logo{
+    color: #f08804;
+}
+button{
+    background-color: #f08804;
+    color: #fff;
+}
+a{
+    margin-right: 200px;
+    color: #fff;
+}
